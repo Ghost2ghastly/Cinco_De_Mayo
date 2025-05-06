@@ -1,4 +1,3 @@
-# Cinco_De_Mayo
 <!DOCTYPE html>
 <html lang="en">
 <head>
